@@ -24,11 +24,93 @@
     "auto_populate_home_page": true,
     "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "category": "0:00:20",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "0:00:55",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "0:01:25",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "0:02:05",
+          "color": "#88C9F2"
+        },
+        {
+          "category": "0:03:20",
+          "color": "#99AFF2"
+        },
+        {
+          "category": "0:04:10",
+          "color": "#B3B3E6"
+        },
+        {
+          "category": "0:04:50",
+          "color": "#C195DB"
+        },
+        {
+          "category": "0:05:15",
+          "color": "#DA9ECF"
+        },
+        {
+          "category": "0:07:00",
+          "color": "#F2A7C3"
+        },
+        {
+          "category": "0:07:15",
+          "color": "#DC8F8D"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "0:00:00",
+          "category": "0:00:20"
+        },
+        {
+          "tag": "0:00",
+          "category": "0:00:55"
+        },
+        {
+          "tag": "0:00",
+          "category": "0:01:25"
+        },
+        {
+          "tag": "0:01",
+          "category": "0:02:05"
+        },
+        {
+          "tag": "0:02:05",
+          "category": "0:03:20"
+        },
+        {
+          "tag": "0:03:20",
+          "category": "0:04:10"
+        },
+        {
+          "tag": "0:04:10",
+          "category": "0:04:50"
+        },
+        {
+          "tag": "0:04:50",
+          "category": "0:05:15"
+        },
+        {
+          "tag": "0:05:15",
+          "category": "0:07:00"
+        },
+        {
+          "tag": "0:07:00",
+          "category": "0:07:15"
+        }
+      ]
     },
     "created_at": "2025-05-02T05:00:03.277Z",
-    "updated_at": "2025-05-02T05:00:03.277Z",
+    "updated_at": "2025-05-02T05:06:14.172Z",
     "generate_pages_site": true
   },
   "annotations": {},
